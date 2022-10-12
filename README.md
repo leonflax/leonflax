@@ -6,7 +6,7 @@
 
 # *Hello, World!*
 
-**Leon Flax** - UNA - Artes Multimediales
+**Leon Flax** - UNA - Artes Multimediales - 2022
 
 <!---
 leonflax/leonflax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
