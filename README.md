@@ -6,7 +6,7 @@
 
 # *Hello, World!*
 
-**Leon Flax** - UNA - Artes Multimediales - 2022
+**Leon Flax** - UNA - Artes Multimediales - 2022 - Bs. As. - Argentina
 
 <!---
 leonflax/leonflax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
