@@ -1,4 +1,10 @@
 - 👋 Hi, I’m @leonflax
+- Interests:
+  - Web Design
+  - Generative Art
+  - Music Production
+  - Graphic Design
+  - Multimedial Arts in general
 - 📫 Reach me through Instagram: @leonflaxx
 
 **Leon Flax**
