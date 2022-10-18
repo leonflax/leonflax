@@ -1,14 +1,7 @@
 - 👋 Hi, I’m @leonflax
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Reach me through Instagram: @leonflaxx
 
-# *Hello, World!*
-
-**Leon Flax** - UNA - Artes Multimediales - 2022 - Bs. As. - Argentina
-
-Clone This
+**Leon Flax**
 
 <!---
 leonflax/leonflax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
